@@ -1,0 +1,31 @@
+body{
+    font-family: 'Rubik Glitch', cursive;
+    background-color: black;
+    color: red;
+}
+.header_div{
+    background: red;
+    color: black;
+    
+}
+.header_div p{
+    color: blue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+margin-top:30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+#copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgba(36, 34, 34, 0.834);
+}
